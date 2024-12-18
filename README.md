@@ -22,3 +22,5 @@ Visualizes training and validation accuracy/loss to track progress.
 Prediction:
 
 Classifies new, unlabeled flower images and maps predictions to their respective class names.
+
+ [Flowers Dataset](www.kaggle.com/datasets/imsparsh/flowers-dataset)
